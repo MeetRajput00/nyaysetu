@@ -1,0 +1,15 @@
+undertrial_prisoner create method is pending
+
+set id automatically
+
+have to send id from code
+
+request to create case filed
+{
+    "name_of_prisoner":2,
+    "case_type":"civil",
+    "court_name":"supreme",
+    "stage":"final",
+    "name_of_party":"govind",
+    "year":2002
+}
